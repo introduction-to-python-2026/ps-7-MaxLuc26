@@ -1,1 +1,10 @@
+                                                                                -Analysis text-
+in my dataset about the people in the titanic after looking at the histogram and scatter plot you can easily spot a couple of correlations. those correlations are as following:
 
+1) the first correlation is of the passangers class and their survival, this shows that the lowest class passangers the majorty suffred the most. having the second most survivers by sheer amount and the top in casualties more than the deaths of the other 2 classes combined.
+
+2) the second correlation is the the ratio of females who survived versus the amount of male people who survived. this was casued by the lack of life boats and how woman were sitted before man and thus survived more.
+
+3) the third correlation we get is from the age to survivle scatter plot. here we get a bit of conflicting results, as we see the main survived group are from the ages of 20-30 and the same in the majory of the dead people. but this is easily explaing with the 2 correlation as we see that much of the male people on board were not sitted as to give place to the females (a gentlmen move). from this we get the the most of the people who died in the 20-30 years were male and the majority survivers of the 20-30 group we female. another intresting thing we can spot that there are more children who survived than who have sadly died because woamn and children were sitted first.
+
+4) the last observation we get the fare price to survivablity correlates to the the first observation (passangers class) as we see the more expensive the ticket people bought the better odds they had as they were placed on the upper floors and had more time to react and were treated better than the lower classes 
